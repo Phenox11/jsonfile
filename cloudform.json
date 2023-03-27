@@ -17,7 +17,7 @@
                 "ContainerDefinitions": [
                     {
                         "Name": "aakhash-scanner",
-                        "Image": "prancer/prancer-pac",
+                        "Image": "prancer/prancer-pac:dev-1.1.8-zap-issues-1322-202303170733",
                         "Environment":[
                             {
                                 "Name":"PAC_CONFIG_CUSTOMER_ID",
@@ -33,7 +33,7 @@
                             },
                             {
                                 "Name":"PAC_CONFIG_TOKEN",
-                                "Value":"<<Token>>"
+                                "Value":"641c538466893aea388fc0f5"
                             }
                         ]
                     }
