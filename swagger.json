@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "http://prancersampleapp01.eastus2.cloudapp.azure.com:8888"
+      "url": "https://crapi-web.prancer.cloud"
     },
     {
       "url": "http://prancersampleapp01.eastus2.cloudapp.azure.com:8025"
