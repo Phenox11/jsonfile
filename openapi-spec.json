@@ -9,7 +9,7 @@
     "url" : "https://github.com/OWASP/crAPI"
   },
   "servers" : [ {
-    "url" : "http://prancersampleapp01.eastus2.cloudapp.azure.com:8888"
+    "url" : "https://crapi-web.prancer.cloud"
   } ],
   "paths" : {
     "/identity/api/auth/signup" : {
