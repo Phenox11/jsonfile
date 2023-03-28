@@ -4,7 +4,7 @@ info:
   description: OpenAPI v3 specs for VAmPI
   version: '0.1'
 servers:
-  - url: http://prancersampleapp01.eastus2.cloudapp.azure.com:5003
+  - url: https://vampi.prancer.cloud/
 components: {}
 paths:
   /createdb:
